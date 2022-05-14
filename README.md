@@ -1,7 +1,7 @@
 # CGeodesic
 
-A Swift package for the C geodesic routines from [GeographicLib](https://geographiclib.sourceforge.io).
+A Swift package for the C implementation of the geodesic routines in [GeographicLib](https://github.com/geographiclib/geographiclib-c/).
 
 # License
 
-GeographicLib is released under the [MIT/X11 license](https://geographiclib.sourceforge.io/html/LICENSE.txt).
+GeographicLib is released under the [MIT license](https://github.com/geographiclib/geographiclib-c/blob/main/LICENSE.txt).
