@@ -23,4 +23,6 @@ Pod::Spec.new do |spec|
   spec.source_files  = "Sources/**/*.{h,c}"
   spec.public_header_files = "Sources/**/*.h"
 
+  spec.libraries = 'm'
+
 end
