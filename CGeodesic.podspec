@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "CGeodesic"
   spec.version      = "2.1.0"
-  spec.summary      = "A Swift package for the C implementation of the geodesic routines in [GeographicLib](https://github.com/geographiclib/geographiclib-c/)."
+  spec.summary      = "A library to solve geodesic problems on an ellipsoid model of the Earth."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  A Swift package for the C implementation of the geodesic routines in [GeographicLib](https://github.com/geographiclib/geographiclib-c/).
+  A library to solve geodesic problems on an ellipsoid model of the Earth using the C implementation of the geodesic routines in [GeographicLib](https://github.com/geographiclib/geographiclib-c/).
                    DESC
 
   spec.homepage     = "https://github.com/sbooth/CGeodesic.git"
@@ -54,7 +54,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.author             = { "Stephen Booth" => "me@sbooth.org" }
-  spec.social_media_url   = "https://twitter.com/sbooth"
+  spec.social_media_url   = "https://github.com/sbooth"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
